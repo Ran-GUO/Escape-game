@@ -55,3 +55,9 @@ using
 ```
 
 ## MVC structure  (Model-View-Controller) 
+
+## links
+```
+https://developer.gnome.org/gtkmm-tutorial/stable/
+https://dev.mysql.com/doc/connector-cpp/8.0/en/
+```
